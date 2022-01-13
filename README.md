@@ -27,7 +27,7 @@ https://github.com/restuap17/FileSharing-Pekob)
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/restuap17/FileSharing-Restu
+git clone https://github.com/Sgtiger22/FileSharing-Restu
 cd FileSharing-Restu
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
